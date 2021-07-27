@@ -37,7 +37,7 @@
 		],
 		"description": "Import classname"
 	},
-	"Use classnmae": {
+	"Use classname": {
 		"prefix": "cx",
 		"body": [
 			"classname()"
